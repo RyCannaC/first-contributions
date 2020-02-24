@@ -70,6 +70,7 @@ Julia Bolting
 - [Huajian Qiu](https://github.com/huajian1069)
 - Rama Maheswari
 - Mike Vinoski (https://github.com/acidrain777)
+- Ryan Maxwell 
 - Solomon Selvakumar (https://github.com/solozzz)
 - Nick B (https://github.com/ceramicskull)
 - Lukas Gokl (https://github.com/Glukas132)
